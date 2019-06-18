@@ -32,7 +32,7 @@ a[name]:hover {
     color:#353833;
 }
 pre {
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    font-family:'DejaVu Sans Mono', monospace;
     font-size:14px;
 }
 h1 {
@@ -58,19 +58,19 @@ ul {
     list-style-type:disc;
 }
 code, tt {
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    font-family:'DejaVu Sans Mono', monospace;
     font-size:14px;
     padding-top:4px;
     margin-top:8px;
     line-height:1.4em;
 }
 dt code {
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    font-family:'DejaVu Sans Mono', monospace;
     font-size:14px;
     padding-top:4px;
 }
 table tr td dt code {
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    font-family:'DejaVu Sans Mono', monospace;
     font-size:14px;
     vertical-align:top;
     padding-top:4px;
